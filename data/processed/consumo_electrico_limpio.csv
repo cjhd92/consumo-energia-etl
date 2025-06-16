@@ -1,0 +1,1001 @@
+fecha,region,consumo_mwh,temperatura_c,fuente_principal,precio_eur_mwh,pico_hora
+2025-01-01,Andalucía,1203,18,No Renovable,129.68,22:00
+2025-01-02,Cataluña,1142,19,No Renovable,95.67,19:00
+2025-01-03,Galicia,1274,19,No Renovable,96.36,20:30
+2025-01-04,Valencia,1398,10,Mixta,124.03,19:30
+2025-01-05,Madrid,982,15,Mixta,107.87,19:30
+2025-01-06,Andalucía,1212,23,No Renovable,121.65,20:00
+2025-01-07,Madrid,1422,21,No Renovable,129.66,20:00
+2025-01-08,Valencia,1171,23,Renovable,94.85,21:30
+2025-01-09,Valencia,1283,17,No Renovable,114.56,19:30
+2025-01-10,Madrid,1132,23,No Renovable,106.94,20:00
+2025-01-11,Madrid,1232,25,Mixta,98.5,22:30
+2025-01-12,Cataluña,1152,10,Mixta,99.54,21:00
+2025-01-13,Castilla Y León,1210,24,Mixta,106.67,21:00
+2025-01-14,Madrid,1445,14,Renovable,105.79,20:00
+2025-01-15,Andalucía,980,26,No Renovable,110.34,20:00
+2025-01-16,Cataluña,1497,11,Mixta,126.47,18:30
+2025-01-17,Cataluña,1195,16,Renovable,126.21,22:00
+2025-01-18,Madrid,1146,21,Renovable,99.51,22:00
+2025-01-19,Madrid,992,19,Renovable,121.42,18:00
+2025-01-20,Castilla Y León,806,17,Renovable,97.28,21:00
+2025-01-21,Castilla Y León,1409,21,Renovable,122.88,21:30
+2025-01-22,Castilla Y León,1333,24,Mixta,128.67,22:30
+2025-01-23,Castilla Y León,1466,28,Mixta,102.9,19:00
+2025-01-24,Valencia,1038,25,No Renovable,97.86,22:30
+2025-01-25,Castilla Y León,889,17,Mixta,116.16,18:30
+2025-01-26,Galicia,879,11,No Renovable,94.45,20:00
+2025-01-27,Madrid,1327,22,No Renovable,109.91,21:30
+2025-01-28,Madrid,1468,18,Mixta,120.57,22:00
+2025-01-29,Castilla Y León,1262,20,Renovable,93.34,22:30
+2025-01-30,Valencia,898,24,No Renovable,119.46,22:30
+2025-01-31,Cataluña,1129,29,No Renovable,118.65,18:00
+2025-02-01,Andalucía,1147,19,No Renovable,116.36,18:00
+2025-02-02,Cataluña,1033,28,Mixta,124.77,19:30
+2025-02-03,Cataluña,1349,14,Mixta,112.54,21:00
+2025-02-04,Galicia,1299,12,No Renovable,100.35,18:00
+2025-02-05,Galicia,1466,30,No Renovable,101.4,20:00
+2025-02-06,Cataluña,992,25,Mixta,96.28,20:00
+2025-02-07,Madrid,1359,18,No Renovable,111.14,22:30
+2025-02-08,Madrid,1246,15,Renovable,115.72,18:00
+2025-02-09,Cataluña,1365,19,Renovable,127.54,19:30
+2025-02-10,Castilla Y León,1087,19,Mixta,114.91,20:30
+2025-02-11,Galicia,1037,30,Mixta,98.71,21:30
+2025-02-12,Madrid,1069,25,Renovable,122.06,20:00
+2025-02-13,Andalucía,990,23,No Renovable,126.58,20:00
+2025-02-14,Cataluña,803,29,No Renovable,106.41,19:00
+2025-02-15,Castilla Y León,1167,11,Mixta,106.87,20:00
+2025-02-16,Valencia,1255,10,Renovable,110.64,18:30
+2025-02-17,Valencia,1285,18,Renovable,106.41,20:30
+2025-02-18,Galicia,1213,21,Renovable,93.15,22:30
+2025-02-19,Madrid,1059,30,Mixta,96.89,19:30
+2025-02-20,Castilla Y León,889,18,No Renovable,110.61,18:30
+2025-02-21,Andalucía,1383,23,No Renovable,121.92,21:30
+2025-02-22,Galicia,1471,10,Mixta,112.21,19:00
+2025-02-23,Castilla Y León,1283,13,Renovable,119.25,19:30
+2025-02-24,Galicia,1213,17,Mixta,105.55,20:30
+2025-02-25,Cataluña,862,20,Mixta,124.06,21:30
+2025-02-26,Cataluña,1223,18,No Renovable,108.23,21:00
+2025-02-27,Galicia,1429,30,Renovable,111.25,21:30
+2025-02-28,Castilla Y León,1065,17,Mixta,109.0,22:30
+2025-03-01,Valencia,1455,22,Mixta,113.75,18:00
+2025-03-02,Cataluña,1427,16,No Renovable,116.48,18:30
+2025-03-03,Valencia,1247,25,Renovable,127.44,19:00
+2025-03-04,Cataluña,1058,10,Renovable,107.45,19:30
+2025-03-05,Madrid,1153,26,Renovable,99.1,19:30
+2025-03-06,Castilla Y León,1348,18,Renovable,122.49,22:30
+2025-03-07,Andalucía,898,20,Mixta,129.35,22:00
+2025-03-08,Madrid,1040,17,No Renovable,126.89,21:30
+2025-03-09,Valencia,1461,15,Renovable,129.67,18:30
+2025-03-10,Castilla Y León,1167,25,Renovable,116.88,19:00
+2025-03-11,Valencia,941,18,Mixta,118.85,22:00
+2025-03-12,Valencia,1155,26,No Renovable,116.17,21:00
+2025-03-13,Cataluña,1093,23,Renovable,99.42,18:00
+2025-03-14,Cataluña,1066,12,No Renovable,103.2,21:30
+2025-03-15,Castilla Y León,1407,13,Mixta,103.48,22:00
+2025-03-16,Valencia,924,17,Mixta,112.03,19:30
+2025-03-17,Valencia,949,30,Renovable,102.04,21:00
+2025-03-18,Galicia,1048,10,Renovable,126.41,22:00
+2025-03-19,Madrid,1057,20,Renovable,112.22,21:30
+2025-03-20,Valencia,948,27,Mixta,100.21,21:30
+2025-03-21,Valencia,1260,24,Mixta,102.29,19:00
+2025-03-22,Madrid,825,24,Renovable,123.84,19:00
+2025-03-23,Galicia,1152,14,No Renovable,109.78,18:00
+2025-03-24,Castilla Y León,909,20,Renovable,112.77,20:00
+2025-03-25,Valencia,1445,22,Mixta,107.28,20:00
+2025-03-26,Cataluña,873,16,Mixta,129.19,21:30
+2025-03-27,Andalucía,1063,10,No Renovable,128.95,20:00
+2025-03-28,Andalucía,1485,27,No Renovable,94.89,22:30
+2025-03-29,Valencia,1017,14,No Renovable,121.46,20:30
+2025-03-30,Andalucía,1497,17,Mixta,101.85,20:30
+2025-03-31,Andalucía,1147,25,No Renovable,111.24,20:30
+2025-04-01,Cataluña,1286,13,Renovable,95.13,18:00
+2025-04-02,Madrid,994,10,No Renovable,117.0,22:30
+2025-04-03,Valencia,1283,20,Renovable,116.57,19:30
+2025-04-04,Cataluña,1476,20,No Renovable,113.69,21:30
+2025-04-05,Galicia,976,17,Renovable,90.92,20:30
+2025-04-06,Cataluña,1005,19,No Renovable,114.97,22:30
+2025-04-07,Madrid,1117,11,Mixta,128.53,21:00
+2025-04-08,Valencia,857,19,Mixta,92.34,19:30
+2025-04-09,Andalucía,1104,10,No Renovable,101.48,20:30
+2025-04-10,Valencia,1409,24,No Renovable,126.19,20:00
+2025-01-01,Valencia,1072,29,No Renovable,102.7,20:00
+2025-01-02,Castilla Y León,1268,22,No Renovable,125.05,21:30
+2025-01-03,Valencia,1219,23,No Renovable,112.24,19:30
+2025-01-04,Cataluña,931,14,Mixta,100.91,22:00
+2025-01-05,Madrid,808,21,Mixta,91.78,22:00
+2025-01-06,Cataluña,1445,28,No Renovable,106.77,21:00
+2025-01-07,Cataluña,1003,24,Mixta,90.96,18:30
+2025-01-08,Madrid,1168,19,Mixta,100.46,20:30
+2025-01-09,Galicia,1161,24,Renovable,121.77,19:00
+2025-01-10,Castilla Y León,1121,16,Renovable,129.39,22:30
+2025-01-11,Cataluña,1211,29,No Renovable,110.71,22:00
+2025-01-12,Andalucía,1489,21,No Renovable,117.86,20:00
+2025-01-13,Cataluña,924,10,Mixta,115.14,18:00
+2025-01-14,Castilla Y León,1481,26,No Renovable,109.52,19:30
+2025-01-15,Valencia,1090,10,No Renovable,90.1,20:00
+2025-01-16,Andalucía,1288,11,No Renovable,118.93,19:00
+2025-01-17,Andalucía,1491,11,Renovable,100.01,18:00
+2025-01-18,Valencia,1054,18,Renovable,124.38,18:00
+2025-01-19,Valencia,995,11,No Renovable,104.74,20:00
+2025-01-20,Valencia,892,10,No Renovable,93.64,18:30
+2025-01-21,Castilla Y León,875,29,Mixta,94.59,19:30
+2025-01-22,Castilla Y León,892,27,Renovable,119.4,21:30
+2025-01-23,Galicia,1132,22,Mixta,116.57,22:00
+2025-01-24,Andalucía,1260,26,Renovable,118.68,18:30
+2025-01-25,Madrid,985,26,Mixta,126.22,21:30
+2025-01-26,Madrid,1343,22,No Renovable,105.79,22:00
+2025-01-27,Cataluña,1414,15,Renovable,107.29,20:30
+2025-01-28,Galicia,1116,15,Mixta,100.12,22:00
+2025-01-29,Castilla Y León,1114,14,Renovable,126.25,19:00
+2025-01-30,Cataluña,967,24,Renovable,120.97,18:00
+2025-01-31,Valencia,1450,16,Renovable,107.94,20:00
+2025-02-01,Valencia,957,12,No Renovable,103.76,21:00
+2025-02-02,Andalucía,1147,29,No Renovable,122.47,18:30
+2025-02-03,Madrid,811,21,Renovable,116.83,20:00
+2025-02-04,Galicia,1337,27,No Renovable,112.75,21:30
+2025-02-05,Madrid,834,23,No Renovable,112.06,20:00
+2025-02-06,Cataluña,1313,25,Mixta,109.41,20:00
+2025-02-07,Madrid,1339,23,No Renovable,127.26,19:30
+2025-02-08,Cataluña,1187,15,Mixta,94.27,22:30
+2025-02-09,Castilla Y León,1052,22,Renovable,106.83,19:30
+2025-02-10,Valencia,1147,17,Mixta,116.04,19:00
+2025-02-11,Valencia,1107,11,Renovable,115.81,21:30
+2025-02-12,Valencia,1197,12,Mixta,92.12,20:00
+2025-02-13,Andalucía,1198,11,Mixta,129.64,19:30
+2025-02-14,Galicia,1016,11,Renovable,91.61,18:30
+2025-02-15,Cataluña,1436,10,Mixta,109.74,22:00
+2025-02-16,Castilla Y León,1076,30,Mixta,103.55,21:00
+2025-02-17,Cataluña,981,22,Renovable,95.36,18:30
+2025-02-18,Andalucía,975,22,No Renovable,124.4,19:30
+2025-02-19,Castilla Y León,1424,19,Renovable,116.26,19:00
+2025-02-20,Valencia,1353,18,No Renovable,121.74,19:00
+2025-02-21,Galicia,1407,21,Mixta,103.53,21:30
+2025-02-22,Castilla Y León,1450,20,Renovable,111.2,20:30
+2025-02-23,Madrid,1225,28,Mixta,94.1,21:00
+2025-02-24,Valencia,890,11,No Renovable,125.41,22:30
+2025-02-25,Cataluña,1306,13,Renovable,110.8,18:00
+2025-02-26,Castilla Y León,943,21,Renovable,120.35,22:00
+2025-02-27,Valencia,1115,15,No Renovable,97.84,20:30
+2025-02-28,Cataluña,858,30,Renovable,125.82,21:30
+2025-03-01,Valencia,834,11,Renovable,101.28,18:00
+2025-03-02,Madrid,901,30,No Renovable,126.02,19:00
+2025-03-03,Galicia,1007,27,No Renovable,111.04,19:00
+2025-03-04,Valencia,870,23,Mixta,108.18,21:00
+2025-03-05,Castilla Y León,1436,21,No Renovable,95.84,20:30
+2025-03-06,Castilla Y León,1039,28,Renovable,90.49,19:00
+2025-03-07,Valencia,934,20,No Renovable,106.9,18:30
+2025-03-08,Cataluña,1452,18,Mixta,95.22,18:30
+2025-03-09,Galicia,1041,17,Mixta,93.01,22:00
+2025-03-10,Madrid,1395,15,Renovable,107.61,19:30
+2025-03-11,Valencia,1457,24,Mixta,118.25,20:30
+2025-03-12,Cataluña,1152,17,No Renovable,106.86,22:00
+2025-03-13,Castilla Y León,1454,21,Mixta,126.37,19:00
+2025-03-14,Madrid,1200,29,Mixta,120.35,21:30
+2025-03-15,Andalucía,1289,10,Renovable,114.47,21:30
+2025-03-16,Galicia,1445,28,Mixta,99.43,19:00
+2025-03-17,Valencia,895,17,Renovable,105.26,18:00
+2025-03-18,Andalucía,1178,14,Renovable,104.64,19:30
+2025-03-19,Castilla Y León,877,12,No Renovable,118.37,21:30
+2025-03-20,Cataluña,1000,18,Mixta,126.56,19:30
+2025-03-21,Galicia,967,11,No Renovable,114.31,18:30
+2025-03-22,Castilla Y León,1064,11,Mixta,110.47,18:00
+2025-03-23,Cataluña,1352,14,Mixta,118.15,18:30
+2025-03-24,Cataluña,829,25,Mixta,118.37,22:30
+2025-03-25,Madrid,1195,14,No Renovable,92.03,22:00
+2025-03-26,Valencia,917,18,No Renovable,110.8,19:30
+2025-03-27,Valencia,1351,10,Renovable,115.98,19:30
+2025-03-28,Andalucía,999,16,Mixta,115.92,18:30
+2025-03-29,Castilla Y León,914,11,Renovable,125.8,19:30
+2025-03-30,Cataluña,1014,27,No Renovable,110.13,21:00
+2025-03-31,Madrid,1070,26,Renovable,124.51,22:00
+2025-04-01,Galicia,1423,24,No Renovable,99.84,19:00
+2025-04-02,Andalucía,1091,21,No Renovable,108.1,19:30
+2025-04-03,Valencia,946,18,Mixta,126.69,19:00
+2025-04-04,Galicia,1042,17,No Renovable,93.01,19:00
+2025-04-05,Madrid,884,19,Mixta,127.03,18:00
+2025-04-06,Cataluña,1397,28,Renovable,124.11,18:00
+2025-04-07,Andalucía,1477,17,No Renovable,94.38,22:00
+2025-04-08,Cataluña,1226,20,No Renovable,112.27,21:30
+2025-04-09,Andalucía,1355,10,No Renovable,115.5,21:30
+2025-04-10,Andalucía,1363,11,Mixta,116.28,20:30
+2025-01-01,Valencia,1243,11,Renovable,117.32,20:00
+2025-01-02,Valencia,1157,17,Renovable,119.09,21:30
+2025-01-03,Castilla Y León,1381,30,Renovable,98.32,20:30
+2025-01-04,Valencia,951,19,Renovable,97.86,21:30
+2025-01-05,Cataluña,1115,12,Renovable,102.99,20:00
+2025-01-06,Valencia,1391,20,Renovable,91.24,21:30
+2025-01-07,Valencia,916,18,No Renovable,129.41,21:30
+2025-01-08,Galicia,965,26,Mixta,104.96,21:00
+2025-01-09,Madrid,1399,29,No Renovable,92.13,19:00
+2025-01-10,Andalucía,1434,27,Renovable,103.15,22:00
+2025-01-11,Castilla Y León,1110,27,Mixta,99.97,22:30
+2025-01-12,Cataluña,1287,22,No Renovable,117.12,18:30
+2025-01-13,Cataluña,1394,19,No Renovable,102.13,18:00
+2025-01-14,Cataluña,1229,24,No Renovable,115.62,18:30
+2025-01-15,Castilla Y León,1418,13,Renovable,120.81,20:00
+2025-01-16,Castilla Y León,840,18,Renovable,95.97,21:00
+2025-01-17,Cataluña,1320,11,Renovable,110.87,18:00
+2025-01-18,Cataluña,1338,29,Mixta,105.41,22:30
+2025-01-19,Andalucía,954,29,Renovable,98.78,18:00
+2025-01-20,Cataluña,1165,14,Mixta,122.56,18:30
+2025-01-21,Cataluña,833,15,Renovable,129.85,20:00
+2025-01-22,Cataluña,1195,12,Renovable,106.08,19:00
+2025-01-23,Andalucía,1324,12,Mixta,90.4,20:30
+2025-01-24,Castilla Y León,893,19,Renovable,111.02,19:00
+2025-01-25,Galicia,1177,18,Renovable,116.23,19:30
+2025-01-26,Galicia,977,15,Renovable,98.51,20:00
+2025-01-27,Andalucía,1033,15,Mixta,125.9,21:30
+2025-01-28,Castilla Y León,818,25,No Renovable,102.61,18:00
+2025-01-29,Madrid,1302,15,Mixta,90.77,21:30
+2025-01-30,Cataluña,1104,25,Mixta,113.96,22:00
+2025-01-31,Cataluña,1468,27,Renovable,91.27,21:00
+2025-02-01,Galicia,916,16,Renovable,104.44,19:00
+2025-02-02,Castilla Y León,1478,29,No Renovable,99.27,19:00
+2025-02-03,Valencia,1038,22,No Renovable,99.78,20:30
+2025-02-04,Madrid,1443,18,Mixta,107.14,19:00
+2025-02-05,Cataluña,1340,13,No Renovable,92.35,20:00
+2025-02-06,Castilla Y León,1118,13,No Renovable,118.01,19:30
+2025-02-07,Madrid,981,30,No Renovable,125.89,20:30
+2025-02-08,Madrid,961,13,No Renovable,119.49,22:30
+2025-02-09,Valencia,1321,17,No Renovable,124.16,19:00
+2025-02-10,Valencia,1227,20,No Renovable,91.41,20:00
+2025-02-11,Cataluña,1494,17,Renovable,90.91,18:00
+2025-02-12,Galicia,885,22,Mixta,122.69,21:00
+2025-02-13,Castilla Y León,992,30,Mixta,109.13,18:30
+2025-02-14,Andalucía,1385,22,Renovable,90.65,22:00
+2025-02-15,Castilla Y León,976,15,No Renovable,116.29,22:30
+2025-02-16,Valencia,941,25,No Renovable,106.47,20:00
+2025-02-17,Cataluña,1271,25,No Renovable,90.27,18:00
+2025-02-18,Madrid,1215,20,No Renovable,129.82,22:30
+2025-02-19,Galicia,1347,24,No Renovable,103.87,18:00
+2025-02-20,Valencia,1165,15,Mixta,97.98,18:30
+2025-02-21,Cataluña,1483,17,No Renovable,98.99,18:00
+2025-02-22,Cataluña,817,15,No Renovable,119.51,21:30
+2025-02-23,Andalucía,1031,10,Mixta,117.31,21:30
+2025-02-24,Cataluña,1340,11,Renovable,103.13,20:30
+2025-02-25,Castilla Y León,1462,27,Mixta,104.04,20:00
+2025-02-26,Madrid,1444,23,Mixta,109.16,20:30
+2025-02-27,Galicia,1418,19,No Renovable,107.99,22:00
+2025-02-28,Madrid,941,24,Renovable,110.47,19:00
+2025-03-01,Galicia,833,15,No Renovable,111.99,21:00
+2025-03-02,Valencia,1362,18,No Renovable,123.29,22:00
+2025-03-03,Madrid,1378,12,Mixta,116.84,20:30
+2025-03-04,Andalucía,1358,16,No Renovable,92.98,21:30
+2025-03-05,Andalucía,1007,24,Renovable,98.08,22:30
+2025-03-06,Madrid,1447,23,No Renovable,105.29,18:00
+2025-03-07,Galicia,911,26,No Renovable,97.35,20:30
+2025-03-08,Andalucía,1243,26,Mixta,112.73,22:30
+2025-03-09,Valencia,1151,29,No Renovable,95.04,22:00
+2025-03-10,Valencia,1494,18,Mixta,126.79,19:00
+2025-03-11,Cataluña,919,26,No Renovable,112.95,21:30
+2025-03-12,Castilla Y León,1057,26,Renovable,110.97,22:30
+2025-03-13,Valencia,901,12,Mixta,94.29,18:30
+2025-03-14,Galicia,1018,29,Renovable,109.0,20:30
+2025-03-15,Castilla Y León,1496,20,Mixta,113.15,18:30
+2025-03-16,Galicia,1365,24,Mixta,127.83,18:30
+2025-03-17,Cataluña,1089,29,Renovable,99.72,21:30
+2025-03-18,Valencia,1073,20,Mixta,111.79,22:30
+2025-03-19,Andalucía,841,11,No Renovable,93.5,21:00
+2025-03-20,Cataluña,833,30,Mixta,112.25,19:30
+2025-03-21,Castilla Y León,972,17,No Renovable,113.44,18:30
+2025-03-22,Madrid,841,16,Mixta,90.39,18:30
+2025-03-23,Andalucía,1464,19,Renovable,123.36,20:00
+2025-03-24,Castilla Y León,1081,12,Mixta,120.9,20:00
+2025-03-25,Valencia,1133,23,No Renovable,127.89,20:30
+2025-03-26,Galicia,1143,26,Mixta,126.51,21:30
+2025-03-27,Andalucía,1239,10,Mixta,116.41,19:30
+2025-03-28,Valencia,1066,24,Mixta,122.99,21:30
+2025-03-29,Cataluña,1353,14,Renovable,109.86,18:00
+2025-03-30,Madrid,1087,14,Renovable,96.88,18:00
+2025-03-31,Valencia,858,20,Renovable,118.67,19:30
+2025-04-01,Cataluña,1082,29,Renovable,122.37,21:30
+2025-04-02,Andalucía,887,11,No Renovable,107.74,18:30
+2025-04-03,Madrid,838,22,No Renovable,129.32,20:30
+2025-04-04,Castilla Y León,1167,28,Renovable,107.16,19:30
+2025-04-05,Cataluña,1122,12,No Renovable,112.57,21:00
+2025-04-06,Valencia,1418,29,Renovable,97.14,22:30
+2025-04-07,Cataluña,1010,30,No Renovable,101.42,19:00
+2025-04-08,Cataluña,877,26,Mixta,106.24,20:00
+2025-04-09,Galicia,1037,13,Mixta,92.37,20:00
+2025-04-10,Valencia,1044,16,Mixta,113.63,22:00
+2025-01-01,Madrid,1073,20,Renovable,123.23,22:00
+2025-01-02,Andalucía,1482,14,Mixta,117.42,21:00
+2025-01-03,Cataluña,1146,12,No Renovable,126.91,22:30
+2025-01-04,Castilla Y León,1219,13,Mixta,105.65,21:30
+2025-01-05,Madrid,1326,16,No Renovable,118.59,18:30
+2025-01-06,Madrid,1221,15,Mixta,90.35,21:30
+2025-01-07,Valencia,1207,30,Renovable,102.89,18:30
+2025-01-08,Madrid,1091,26,Renovable,111.86,21:30
+2025-01-09,Valencia,1135,29,No Renovable,100.05,19:30
+2025-01-10,Galicia,1363,24,Renovable,92.99,21:00
+2025-01-11,Andalucía,1258,14,Mixta,121.01,22:30
+2025-01-12,Cataluña,1325,18,Renovable,122.42,19:00
+2025-01-13,Galicia,901,16,No Renovable,112.3,22:30
+2025-01-14,Andalucía,1160,29,Renovable,117.0,19:00
+2025-01-15,Madrid,955,14,Renovable,103.84,19:00
+2025-01-16,Valencia,971,19,Mixta,127.29,18:00
+2025-01-17,Cataluña,1406,15,No Renovable,96.52,19:00
+2025-01-18,Andalucía,1239,15,Renovable,105.91,18:00
+2025-01-19,Cataluña,1400,14,Renovable,124.31,20:00
+2025-01-20,Galicia,1002,28,No Renovable,92.62,21:30
+2025-01-21,Valencia,807,15,Mixta,120.94,20:00
+2025-01-22,Galicia,1429,20,No Renovable,96.64,21:00
+2025-01-23,Galicia,1174,11,No Renovable,114.5,22:00
+2025-01-24,Castilla Y León,1139,19,Mixta,122.24,20:00
+2025-01-25,Cataluña,1277,15,No Renovable,95.59,22:30
+2025-01-26,Andalucía,1375,10,Mixta,129.88,18:30
+2025-01-27,Andalucía,1117,27,Mixta,115.65,19:00
+2025-01-28,Madrid,1023,23,No Renovable,98.85,18:00
+2025-01-29,Castilla Y León,1057,19,No Renovable,97.62,22:30
+2025-01-30,Valencia,816,19,Mixta,106.43,19:30
+2025-01-31,Madrid,1214,11,No Renovable,123.28,19:30
+2025-02-01,Castilla Y León,1346,16,No Renovable,102.65,20:00
+2025-02-02,Andalucía,1290,17,Renovable,107.07,19:30
+2025-02-03,Castilla Y León,889,20,Mixta,129.84,18:00
+2025-02-04,Madrid,1193,20,No Renovable,127.06,20:00
+2025-02-05,Galicia,1145,20,Mixta,128.09,21:00
+2025-02-06,Madrid,838,30,Renovable,123.97,20:00
+2025-02-07,Castilla Y León,825,24,Mixta,120.85,22:00
+2025-02-08,Madrid,1133,25,No Renovable,102.85,22:00
+2025-02-09,Cataluña,973,24,Mixta,105.43,18:00
+2025-02-10,Cataluña,1491,28,Mixta,123.02,21:00
+2025-02-11,Galicia,1119,28,Renovable,95.02,22:00
+2025-02-12,Galicia,856,10,Renovable,102.72,18:00
+2025-02-13,Galicia,1094,30,No Renovable,118.04,18:30
+2025-02-14,Madrid,958,11,No Renovable,102.71,22:00
+2025-02-15,Castilla Y León,1310,20,Mixta,115.04,19:00
+2025-02-16,Cataluña,839,22,Mixta,91.47,20:00
+2025-02-17,Cataluña,1088,17,No Renovable,124.43,22:30
+2025-02-18,Valencia,819,24,Renovable,123.69,18:30
+2025-02-19,Valencia,1486,29,Renovable,92.99,20:00
+2025-02-20,Castilla Y León,1049,28,Mixta,115.94,22:30
+2025-02-21,Cataluña,870,17,No Renovable,117.35,19:00
+2025-02-22,Galicia,844,10,Renovable,116.09,19:30
+2025-02-23,Castilla Y León,1461,26,Renovable,117.54,20:00
+2025-02-24,Castilla Y León,1030,30,Mixta,103.68,22:00
+2025-02-25,Valencia,848,13,Renovable,98.1,21:30
+2025-02-26,Castilla Y León,1134,27,Mixta,123.92,20:30
+2025-02-27,Andalucía,959,24,No Renovable,120.2,19:00
+2025-02-28,Cataluña,1269,22,Renovable,97.17,19:30
+2025-03-01,Madrid,1293,16,Renovable,108.7,19:00
+2025-03-02,Valencia,1421,15,Mixta,106.64,22:00
+2025-03-03,Madrid,1295,11,Renovable,103.29,21:00
+2025-03-04,Castilla Y León,924,18,No Renovable,102.39,18:30
+2025-03-05,Castilla Y León,906,22,No Renovable,91.96,19:30
+2025-03-06,Madrid,1304,15,Mixta,110.76,20:00
+2025-03-07,Madrid,1426,18,Mixta,110.66,18:30
+2025-03-08,Valencia,951,14,No Renovable,96.49,18:30
+2025-03-09,Galicia,1104,27,Mixta,108.27,21:30
+2025-03-10,Cataluña,1260,23,Mixta,118.96,21:00
+2025-03-11,Madrid,1310,12,Mixta,114.2,18:30
+2025-03-12,Andalucía,1283,25,No Renovable,101.84,19:00
+2025-03-13,Madrid,1185,10,No Renovable,92.09,22:30
+2025-03-14,Castilla Y León,940,25,Mixta,122.21,19:30
+2025-03-15,Valencia,1349,17,Renovable,109.5,22:00
+2025-03-16,Valencia,1136,16,No Renovable,112.26,19:00
+2025-03-17,Valencia,849,22,Mixta,118.86,18:30
+2025-03-18,Cataluña,1190,29,Renovable,124.12,18:00
+2025-03-19,Madrid,1474,29,Mixta,108.31,22:00
+2025-03-20,Galicia,1207,24,Mixta,129.64,22:30
+2025-03-21,Cataluña,993,23,No Renovable,91.27,20:00
+2025-03-22,Madrid,1274,12,Mixta,99.23,19:30
+2025-03-23,Cataluña,968,22,No Renovable,119.56,22:00
+2025-03-24,Galicia,859,21,No Renovable,119.54,18:00
+2025-03-25,Andalucía,1003,17,No Renovable,113.38,20:00
+2025-03-26,Valencia,966,26,Renovable,117.52,22:00
+2025-03-27,Galicia,1311,13,Mixta,117.21,18:30
+2025-03-28,Castilla Y León,1018,10,No Renovable,124.22,20:00
+2025-03-29,Madrid,972,10,No Renovable,123.28,22:30
+2025-03-30,Valencia,1385,22,Renovable,114.64,22:30
+2025-03-31,Andalucía,1313,27,No Renovable,120.07,20:30
+2025-04-01,Galicia,1266,22,Mixta,113.11,20:30
+2025-04-02,Castilla Y León,1329,30,No Renovable,102.0,19:30
+2025-04-03,Galicia,1366,26,Mixta,120.01,19:00
+2025-04-04,Andalucía,1157,10,Renovable,113.13,22:00
+2025-04-05,Madrid,936,16,Mixta,117.61,19:00
+2025-04-06,Galicia,1382,21,Mixta,96.54,19:30
+2025-04-07,Cataluña,980,25,No Renovable,104.21,21:30
+2025-04-08,Andalucía,819,13,Renovable,120.42,19:30
+2025-04-09,Cataluña,995,11,No Renovable,129.32,19:30
+2025-04-10,Cataluña,1399,30,No Renovable,123.39,21:00
+2025-01-01,Madrid,1446,28,Renovable,97.21,21:00
+2025-01-02,Cataluña,1002,25,No Renovable,123.78,22:30
+2025-01-03,Castilla Y León,1156,10,Renovable,128.16,19:30
+2025-01-04,Galicia,990,16,Mixta,128.27,22:30
+2025-01-05,Galicia,1055,14,Renovable,121.2,20:30
+2025-01-06,Madrid,1491,16,Mixta,110.93,19:00
+2025-01-07,Castilla Y León,964,25,Renovable,124.03,18:30
+2025-01-08,Andalucía,1351,18,No Renovable,126.68,22:00
+2025-01-09,Valencia,1352,24,Renovable,102.61,20:00
+2025-01-10,Valencia,1001,14,No Renovable,115.82,19:30
+2025-01-11,Castilla Y León,1424,23,No Renovable,115.52,21:00
+2025-01-12,Galicia,1173,18,Mixta,121.07,22:00
+2025-01-13,Castilla Y León,1120,20,Renovable,108.9,21:30
+2025-01-14,Cataluña,916,30,No Renovable,113.34,21:00
+2025-01-15,Cataluña,1323,18,Mixta,116.55,19:00
+2025-01-16,Valencia,979,19,Mixta,121.25,19:00
+2025-01-17,Castilla Y León,1136,24,Mixta,91.35,19:30
+2025-01-18,Castilla Y León,836,22,Mixta,90.6,20:30
+2025-01-19,Cataluña,931,29,No Renovable,92.67,21:00
+2025-01-20,Galicia,1023,24,Renovable,108.34,22:30
+2025-01-21,Cataluña,1105,18,Mixta,91.09,21:00
+2025-01-22,Cataluña,1206,22,No Renovable,96.98,19:00
+2025-01-23,Andalucía,1142,26,No Renovable,126.82,20:30
+2025-01-24,Andalucía,1069,30,Renovable,127.26,22:00
+2025-01-25,Andalucía,907,13,Renovable,96.72,20:30
+2025-01-26,Cataluña,1167,21,Mixta,120.48,20:30
+2025-01-27,Cataluña,1312,16,Mixta,118.54,18:30
+2025-01-28,Valencia,1017,16,Renovable,113.53,19:00
+2025-01-29,Castilla Y León,1237,23,Renovable,118.56,19:30
+2025-01-30,Cataluña,1275,25,No Renovable,100.8,20:00
+2025-01-31,Madrid,1083,11,Mixta,109.38,21:00
+2025-02-01,Madrid,1450,13,No Renovable,98.43,18:00
+2025-02-02,Madrid,870,19,Mixta,103.07,20:00
+2025-02-03,Valencia,1224,28,No Renovable,102.18,20:00
+2025-02-04,Galicia,851,11,No Renovable,129.62,22:30
+2025-02-05,Madrid,1217,24,Renovable,121.9,21:00
+2025-02-06,Galicia,1000,20,Mixta,112.84,21:30
+2025-02-07,Andalucía,1389,30,Mixta,127.06,22:00
+2025-02-08,Andalucía,1351,15,Renovable,91.68,22:00
+2025-02-09,Andalucía,1484,16,Mixta,116.59,19:00
+2025-02-10,Andalucía,1440,23,No Renovable,103.25,22:00
+2025-02-11,Madrid,816,20,No Renovable,123.12,20:30
+2025-02-12,Andalucía,1233,23,Mixta,121.87,20:00
+2025-02-13,Madrid,1399,27,Renovable,97.5,19:30
+2025-02-14,Andalucía,1000,12,Mixta,112.91,19:00
+2025-02-15,Andalucía,1173,17,No Renovable,94.56,22:30
+2025-02-16,Valencia,1288,13,Renovable,114.94,18:00
+2025-02-17,Madrid,1475,28,Mixta,97.34,21:30
+2025-02-18,Galicia,1014,27,Renovable,96.52,22:30
+2025-02-19,Andalucía,1140,20,No Renovable,110.03,21:30
+2025-02-20,Castilla Y León,1043,22,No Renovable,95.97,19:30
+2025-02-21,Andalucía,1495,24,Renovable,91.06,22:00
+2025-02-22,Cataluña,858,12,Renovable,102.52,19:30
+2025-02-23,Valencia,1499,25,Renovable,114.03,22:00
+2025-02-24,Madrid,1466,25,Mixta,99.95,18:00
+2025-02-25,Madrid,1028,21,Renovable,125.31,21:30
+2025-02-26,Madrid,1324,13,Mixta,121.16,19:00
+2025-02-27,Castilla Y León,1431,25,Renovable,111.83,21:30
+2025-02-28,Madrid,1473,17,Mixta,91.81,22:00
+2025-03-01,Galicia,1003,18,No Renovable,126.42,19:00
+2025-03-02,Galicia,856,23,No Renovable,102.82,21:30
+2025-03-03,Andalucía,1499,14,Mixta,103.96,18:30
+2025-03-04,Galicia,981,16,Mixta,120.79,22:00
+2025-03-05,Valencia,1224,28,Renovable,104.06,22:00
+2025-03-06,Andalucía,1391,25,No Renovable,110.29,22:30
+2025-03-07,Madrid,969,14,Renovable,113.01,21:30
+2025-03-08,Castilla Y León,1270,10,No Renovable,97.58,22:30
+2025-03-09,Cataluña,1449,28,Renovable,113.81,18:00
+2025-03-10,Valencia,1093,14,Mixta,107.59,18:30
+2025-03-11,Cataluña,1345,19,Mixta,105.43,21:30
+2025-03-12,Cataluña,914,20,Mixta,119.42,21:30
+2025-03-13,Galicia,843,16,Mixta,96.72,21:00
+2025-03-14,Galicia,911,10,Mixta,112.47,18:00
+2025-03-15,Madrid,1190,10,Mixta,103.84,21:00
+2025-03-16,Castilla Y León,1180,20,Renovable,111.82,19:00
+2025-03-17,Madrid,1469,22,Mixta,107.04,21:30
+2025-03-18,Valencia,1386,28,No Renovable,110.35,19:30
+2025-03-19,Galicia,1432,10,Renovable,90.19,18:00
+2025-03-20,Andalucía,1236,25,Renovable,119.59,21:30
+2025-03-21,Castilla Y León,996,29,Mixta,91.44,19:30
+2025-03-22,Valencia,930,12,No Renovable,114.75,19:30
+2025-03-23,Valencia,851,27,Mixta,108.33,18:00
+2025-03-24,Castilla Y León,1180,19,No Renovable,91.63,19:00
+2025-03-25,Castilla Y León,1107,24,Mixta,97.2,20:30
+2025-03-26,Andalucía,1428,11,Mixta,112.99,19:00
+2025-03-27,Castilla Y León,1214,23,Renovable,96.38,18:30
+2025-03-28,Castilla Y León,1040,12,Mixta,104.11,18:30
+2025-03-29,Madrid,1369,25,No Renovable,125.64,21:30
+2025-03-30,Castilla Y León,854,28,Mixta,98.45,21:30
+2025-03-31,Galicia,1306,23,Renovable,128.93,19:00
+2025-04-01,Andalucía,986,20,No Renovable,128.07,19:00
+2025-04-02,Cataluña,1492,15,No Renovable,127.59,18:00
+2025-04-03,Andalucía,1419,21,Mixta,107.74,21:30
+2025-04-04,Andalucía,1093,29,Renovable,91.32,19:00
+2025-04-05,Valencia,836,14,Renovable,104.51,18:00
+2025-04-06,Castilla Y León,913,18,No Renovable,102.78,21:30
+2025-04-07,Cataluña,1113,25,No Renovable,118.47,18:30
+2025-04-08,Valencia,1077,18,Mixta,121.08,20:30
+2025-04-09,Madrid,971,27,Renovable,113.89,18:30
+2025-04-10,Castilla Y León,1362,20,Renovable,99.77,22:00
+2025-01-01,Galicia,1188,22,No Renovable,127.56,22:00
+2025-01-02,Madrid,937,25,Mixta,104.9,18:00
+2025-01-03,Andalucía,1469,11,Renovable,117.48,18:00
+2025-01-04,Galicia,1396,18,No Renovable,112.34,22:30
+2025-01-05,Madrid,1233,25,Mixta,114.21,21:00
+2025-01-06,Cataluña,1055,12,No Renovable,108.64,19:30
+2025-01-07,Galicia,1482,26,Mixta,113.57,21:00
+2025-01-08,Cataluña,1405,10,Mixta,92.05,21:00
+2025-01-09,Cataluña,968,10,Mixta,96.76,19:30
+2025-01-10,Madrid,926,27,Renovable,125.98,21:30
+2025-01-11,Galicia,1444,21,No Renovable,124.24,18:30
+2025-01-12,Castilla Y León,1204,27,No Renovable,116.63,21:00
+2025-01-13,Andalucía,834,30,Mixta,114.62,22:00
+2025-01-14,Cataluña,970,30,No Renovable,111.93,22:30
+2025-01-15,Madrid,905,12,Mixta,97.1,18:30
+2025-01-16,Andalucía,903,30,Renovable,126.35,19:30
+2025-01-17,Cataluña,990,27,Mixta,129.23,22:30
+2025-01-18,Galicia,1346,27,No Renovable,102.94,18:00
+2025-01-19,Valencia,1376,14,Renovable,98.25,19:30
+2025-01-20,Madrid,1190,18,No Renovable,114.44,20:00
+2025-01-21,Galicia,1372,22,Mixta,98.16,20:00
+2025-01-22,Valencia,1005,24,No Renovable,114.2,22:30
+2025-01-23,Galicia,1480,28,No Renovable,126.46,22:30
+2025-01-24,Cataluña,1165,11,No Renovable,118.88,22:30
+2025-01-25,Valencia,1181,16,Mixta,118.2,19:30
+2025-01-26,Castilla Y León,839,12,No Renovable,90.0,21:00
+2025-01-27,Castilla Y León,1233,18,No Renovable,128.39,22:00
+2025-01-28,Galicia,918,21,Mixta,116.32,21:00
+2025-01-29,Castilla Y León,1389,22,Renovable,129.87,20:00
+2025-01-30,Galicia,1310,19,No Renovable,127.53,18:30
+2025-01-31,Andalucía,1293,13,Mixta,95.69,21:00
+2025-02-01,Madrid,1123,27,Mixta,95.06,20:30
+2025-02-02,Madrid,1489,13,No Renovable,115.6,20:30
+2025-02-03,Cataluña,839,28,Renovable,95.92,18:00
+2025-02-04,Cataluña,1215,25,No Renovable,111.52,19:30
+2025-02-05,Cataluña,1384,14,No Renovable,93.99,21:30
+2025-02-06,Galicia,1004,18,Mixta,118.89,21:00
+2025-02-07,Galicia,965,10,Mixta,99.75,20:30
+2025-02-08,Cataluña,1166,15,No Renovable,90.02,20:00
+2025-02-09,Madrid,1275,14,Renovable,124.26,21:30
+2025-02-10,Galicia,925,22,No Renovable,110.45,18:00
+2025-02-11,Cataluña,883,28,Mixta,126.21,20:00
+2025-02-12,Madrid,1100,27,Renovable,105.26,20:30
+2025-02-13,Galicia,1281,10,Mixta,90.35,20:00
+2025-02-14,Valencia,1095,29,Mixta,120.32,18:30
+2025-02-15,Cataluña,1412,25,Renovable,126.18,21:00
+2025-02-16,Cataluña,1127,27,Mixta,110.77,22:00
+2025-02-17,Madrid,1269,26,Renovable,93.99,21:30
+2025-02-18,Cataluña,1215,13,Mixta,105.41,22:30
+2025-02-19,Madrid,1119,22,No Renovable,90.4,18:00
+2025-02-20,Madrid,1245,24,Mixta,124.93,22:30
+2025-02-21,Galicia,1076,23,No Renovable,108.16,19:30
+2025-02-22,Galicia,1137,29,No Renovable,113.9,18:00
+2025-02-23,Galicia,1199,25,No Renovable,127.5,22:00
+2025-02-24,Castilla Y León,1252,16,Mixta,116.86,20:30
+2025-02-25,Galicia,1121,16,Mixta,129.09,20:30
+2025-02-26,Castilla Y León,1360,27,Mixta,113.52,18:00
+2025-02-27,Madrid,1131,24,No Renovable,103.48,19:30
+2025-02-28,Cataluña,1002,25,No Renovable,101.87,19:30
+2025-03-01,Cataluña,1107,10,No Renovable,126.87,19:30
+2025-03-02,Castilla Y León,1389,17,No Renovable,128.11,19:00
+2025-03-03,Andalucía,1425,30,Renovable,102.51,21:30
+2025-03-04,Cataluña,1334,13,Renovable,98.16,18:00
+2025-03-05,Cataluña,1135,15,Renovable,115.08,20:30
+2025-03-06,Cataluña,1310,18,No Renovable,109.46,22:30
+2025-03-07,Madrid,1282,18,Renovable,102.05,20:00
+2025-03-08,Cataluña,1282,18,Mixta,97.22,19:30
+2025-03-09,Valencia,1079,19,Mixta,127.8,20:30
+2025-03-10,Madrid,1451,13,Renovable,108.13,22:30
+2025-03-11,Madrid,1107,15,Renovable,116.21,19:30
+2025-03-12,Galicia,1161,18,Mixta,114.52,19:00
+2025-03-13,Valencia,873,27,No Renovable,119.69,22:30
+2025-03-14,Valencia,1406,21,Mixta,105.25,20:00
+2025-03-15,Cataluña,1198,17,Mixta,108.09,20:30
+2025-03-16,Castilla Y León,1351,20,No Renovable,95.55,21:30
+2025-03-17,Cataluña,1298,30,No Renovable,124.68,18:30
+2025-03-18,Andalucía,963,16,No Renovable,115.0,20:00
+2025-03-19,Castilla Y León,1047,28,No Renovable,111.62,21:30
+2025-03-20,Galicia,1206,22,Mixta,98.97,20:00
+2025-03-21,Madrid,1198,11,No Renovable,128.43,21:00
+2025-03-22,Andalucía,1035,18,Renovable,99.82,18:00
+2025-03-23,Madrid,1143,25,Mixta,112.24,22:00
+2025-03-24,Andalucía,1471,20,No Renovable,106.24,20:00
+2025-03-25,Galicia,1497,23,Renovable,94.18,22:30
+2025-03-26,Madrid,809,21,Renovable,97.66,19:00
+2025-03-27,Castilla Y León,1239,18,Mixta,90.28,20:00
+2025-03-28,Madrid,1091,23,Mixta,104.7,19:30
+2025-03-29,Cataluña,1358,14,Mixta,101.14,20:30
+2025-03-30,Madrid,824,30,Renovable,102.4,19:30
+2025-03-31,Castilla Y León,1069,28,No Renovable,99.31,22:00
+2025-04-01,Cataluña,1478,10,No Renovable,114.04,20:30
+2025-04-02,Galicia,1142,21,No Renovable,93.74,19:30
+2025-04-03,Madrid,1007,19,No Renovable,92.8,20:00
+2025-04-04,Galicia,1321,13,Renovable,102.14,22:00
+2025-04-05,Valencia,1385,10,Renovable,100.7,21:30
+2025-04-06,Valencia,1276,29,No Renovable,101.86,19:30
+2025-04-07,Andalucía,1404,30,Renovable,98.25,18:30
+2025-04-08,Cataluña,887,29,Mixta,109.17,22:00
+2025-04-09,Valencia,929,16,Renovable,116.25,18:30
+2025-04-10,Galicia,1047,18,No Renovable,121.55,20:30
+2025-01-01,Castilla Y León,957,13,Mixta,96.41,18:30
+2025-01-02,Valencia,1494,17,Mixta,96.67,22:00
+2025-01-03,Castilla Y León,970,25,Renovable,127.52,20:30
+2025-01-04,Andalucía,1127,11,No Renovable,127.02,22:30
+2025-01-05,Andalucía,1443,26,No Renovable,91.15,18:30
+2025-01-06,Cataluña,1073,22,Mixta,114.48,22:30
+2025-01-07,Cataluña,1305,10,Mixta,101.95,20:00
+2025-01-08,Cataluña,1169,25,No Renovable,129.14,20:30
+2025-01-09,Galicia,1013,17,Renovable,91.17,20:30
+2025-01-10,Cataluña,801,10,No Renovable,112.08,19:30
+2025-01-11,Castilla Y León,802,19,Renovable,114.85,18:00
+2025-01-12,Andalucía,1358,18,Renovable,106.22,20:00
+2025-01-13,Galicia,1008,15,Renovable,94.68,19:30
+2025-01-14,Andalucía,1357,24,No Renovable,125.58,18:00
+2025-01-15,Castilla Y León,972,30,Mixta,105.03,18:30
+2025-01-16,Cataluña,992,13,Renovable,105.74,22:00
+2025-01-17,Madrid,1345,21,Mixta,106.02,18:00
+2025-01-18,Cataluña,947,23,Mixta,118.42,20:00
+2025-01-19,Madrid,1250,17,No Renovable,96.3,22:00
+2025-01-20,Andalucía,1401,29,No Renovable,121.12,22:30
+2025-01-21,Galicia,1253,24,Renovable,108.8,18:00
+2025-01-22,Castilla Y León,1061,19,Mixta,120.11,21:00
+2025-01-23,Andalucía,1428,15,Renovable,120.67,19:00
+2025-01-24,Andalucía,1369,17,Renovable,96.58,21:00
+2025-01-25,Galicia,1080,25,No Renovable,92.55,19:00
+2025-01-26,Valencia,1374,12,Renovable,94.24,19:30
+2025-01-27,Galicia,1001,25,No Renovable,90.17,18:30
+2025-01-28,Andalucía,1421,29,No Renovable,121.84,20:00
+2025-01-29,Cataluña,1117,11,No Renovable,115.59,21:30
+2025-01-30,Valencia,1241,10,Renovable,95.06,20:30
+2025-01-31,Andalucía,886,22,Mixta,102.91,21:00
+2025-02-01,Madrid,1073,23,No Renovable,125.45,20:30
+2025-02-02,Andalucía,917,18,Mixta,91.54,20:30
+2025-02-03,Andalucía,937,16,No Renovable,116.52,20:30
+2025-02-04,Madrid,893,28,Mixta,126.71,19:30
+2025-02-05,Cataluña,957,25,No Renovable,119.63,18:00
+2025-02-06,Valencia,1032,13,Mixta,129.53,22:30
+2025-02-07,Castilla Y León,1008,10,Mixta,114.92,22:00
+2025-02-08,Valencia,1050,15,No Renovable,115.7,20:30
+2025-02-09,Madrid,1390,15,No Renovable,96.56,20:00
+2025-02-10,Madrid,1089,30,Mixta,98.47,21:00
+2025-02-11,Galicia,1157,19,No Renovable,100.28,18:00
+2025-02-12,Valencia,872,29,No Renovable,99.38,22:30
+2025-02-13,Madrid,1495,15,No Renovable,113.78,21:30
+2025-02-14,Galicia,807,28,No Renovable,102.88,22:00
+2025-02-15,Madrid,1421,27,Mixta,106.67,20:30
+2025-02-16,Galicia,829,20,Renovable,112.26,21:30
+2025-02-17,Valencia,1471,16,Renovable,124.56,20:30
+2025-02-18,Castilla Y León,1037,11,No Renovable,121.12,20:30
+2025-02-19,Andalucía,1482,18,Mixta,118.96,21:30
+2025-02-20,Cataluña,1413,11,Renovable,127.54,20:00
+2025-02-21,Madrid,888,18,No Renovable,111.8,22:00
+2025-02-22,Cataluña,991,22,No Renovable,126.36,20:00
+2025-02-23,Galicia,993,24,No Renovable,90.97,20:00
+2025-02-24,Madrid,1445,11,Renovable,115.56,22:00
+2025-02-25,Cataluña,1342,14,Renovable,100.33,18:30
+2025-02-26,Castilla Y León,1258,14,Renovable,127.86,22:00
+2025-02-27,Galicia,974,11,Mixta,128.95,20:30
+2025-02-28,Madrid,1364,11,Renovable,120.8,20:00
+2025-03-01,Valencia,1198,12,No Renovable,103.1,21:00
+2025-03-02,Galicia,1484,11,Mixta,112.69,22:30
+2025-03-03,Galicia,902,15,Renovable,92.72,20:00
+2025-03-04,Valencia,1426,11,Renovable,111.87,21:30
+2025-03-05,Andalucía,1066,14,Renovable,101.06,21:30
+2025-03-06,Galicia,1130,18,Mixta,123.14,22:00
+2025-03-07,Castilla Y León,826,18,Renovable,115.1,22:30
+2025-03-08,Valencia,1080,19,No Renovable,106.65,19:30
+2025-03-09,Andalucía,1086,30,Mixta,110.18,20:00
+2025-03-10,Galicia,1309,19,Renovable,106.06,21:30
+2025-03-11,Cataluña,1185,18,Renovable,128.69,18:30
+2025-03-12,Valencia,1084,29,No Renovable,92.53,18:00
+2025-03-13,Castilla Y León,1188,10,No Renovable,109.1,18:30
+2025-03-14,Valencia,810,29,Mixta,118.27,21:00
+2025-03-15,Valencia,1450,21,Mixta,129.25,21:30
+2025-03-16,Andalucía,936,25,No Renovable,103.39,19:00
+2025-03-17,Madrid,1295,19,Mixta,108.54,22:30
+2025-03-18,Valencia,1058,18,Mixta,99.78,21:30
+2025-03-19,Galicia,1089,11,No Renovable,105.38,20:00
+2025-03-20,Valencia,880,27,Renovable,103.91,21:00
+2025-03-21,Castilla Y León,1362,18,Renovable,112.19,20:30
+2025-03-22,Madrid,1407,30,No Renovable,96.96,22:00
+2025-03-23,Galicia,1091,10,Mixta,91.85,20:30
+2025-03-24,Andalucía,1034,28,Mixta,116.36,18:30
+2025-03-25,Cataluña,1319,17,Renovable,118.47,18:00
+2025-03-26,Valencia,893,17,Mixta,100.02,21:00
+2025-03-27,Andalucía,1267,17,No Renovable,108.09,20:30
+2025-03-28,Andalucía,903,20,Mixta,109.05,19:30
+2025-03-29,Madrid,1173,25,Renovable,118.48,19:00
+2025-03-30,Madrid,959,14,Renovable,95.09,22:30
+2025-03-31,Madrid,1477,12,No Renovable,111.86,21:30
+2025-04-01,Andalucía,1124,19,Renovable,93.05,19:00
+2025-04-02,Madrid,809,11,Renovable,111.32,22:30
+2025-04-03,Madrid,893,16,No Renovable,104.49,22:30
+2025-04-04,Valencia,924,11,Renovable,118.63,21:30
+2025-04-05,Castilla Y León,1037,29,Renovable,129.16,20:30
+2025-04-06,Cataluña,1075,23,Renovable,111.31,21:00
+2025-04-07,Andalucía,1189,25,Mixta,127.14,20:30
+2025-04-08,Madrid,984,19,Mixta,92.42,20:00
+2025-04-09,Castilla Y León,1161,17,Renovable,98.43,22:30
+2025-04-10,Galicia,1019,21,No Renovable,120.78,21:30
+2025-01-01,Valencia,1285,11,Renovable,117.95,19:30
+2025-01-02,Castilla Y León,1229,14,Renovable,126.15,18:30
+2025-01-03,Galicia,1131,24,Renovable,91.54,21:30
+2025-01-04,Galicia,948,19,Renovable,116.19,22:30
+2025-01-05,Castilla Y León,1481,13,No Renovable,96.04,18:00
+2025-01-06,Andalucía,1091,19,Mixta,109.21,21:30
+2025-01-07,Cataluña,1202,18,Renovable,125.62,20:00
+2025-01-08,Valencia,812,26,Renovable,121.94,19:00
+2025-01-09,Andalucía,852,16,Mixta,121.03,20:30
+2025-01-10,Madrid,900,28,No Renovable,112.07,18:30
+2025-01-11,Cataluña,1041,20,Renovable,119.52,21:00
+2025-01-12,Galicia,1053,12,Renovable,95.76,18:30
+2025-01-13,Andalucía,1386,18,No Renovable,93.26,18:30
+2025-01-14,Andalucía,1208,21,Mixta,123.07,20:30
+2025-01-15,Galicia,984,19,Mixta,113.8,20:30
+2025-01-16,Galicia,1186,21,Mixta,96.84,21:00
+2025-01-17,Castilla Y León,1139,18,Renovable,106.98,18:30
+2025-01-18,Galicia,809,25,Renovable,100.51,22:00
+2025-01-19,Castilla Y León,1473,15,Renovable,112.0,22:00
+2025-01-20,Andalucía,1432,18,Mixta,110.23,20:00
+2025-01-21,Andalucía,868,15,No Renovable,128.32,20:00
+2025-01-22,Castilla Y León,988,16,No Renovable,96.18,18:00
+2025-01-23,Galicia,1101,30,Mixta,129.25,20:00
+2025-01-24,Cataluña,1487,10,Mixta,101.55,21:30
+2025-01-25,Andalucía,1329,15,Mixta,120.72,20:00
+2025-01-26,Cataluña,1353,26,Renovable,126.61,21:00
+2025-01-27,Andalucía,1047,23,Mixta,103.58,22:30
+2025-01-28,Galicia,1398,18,Mixta,98.15,21:30
+2025-01-29,Cataluña,866,18,No Renovable,119.62,21:30
+2025-01-30,Castilla Y León,1245,30,Renovable,94.2,22:30
+2025-01-31,Valencia,1426,22,Mixta,119.48,21:00
+2025-02-01,Valencia,969,25,Renovable,92.57,19:30
+2025-02-02,Galicia,1142,28,Renovable,114.52,21:00
+2025-02-03,Valencia,1114,27,Mixta,90.1,20:00
+2025-02-04,Valencia,1103,13,Mixta,95.0,19:00
+2025-02-05,Castilla Y León,1206,17,Mixta,109.47,19:30
+2025-02-06,Valencia,964,23,Mixta,113.9,21:30
+2025-02-07,Castilla Y León,1285,11,No Renovable,90.53,22:00
+2025-02-08,Castilla Y León,1445,10,Mixta,120.14,20:00
+2025-02-09,Madrid,1092,25,Renovable,96.13,22:30
+2025-02-10,Galicia,1313,13,No Renovable,96.13,19:00
+2025-02-11,Madrid,929,29,Mixta,110.16,19:00
+2025-02-12,Madrid,1365,13,Mixta,104.62,19:00
+2025-02-13,Cataluña,1083,14,Renovable,105.17,22:00
+2025-02-14,Galicia,853,15,Mixta,120.77,22:30
+2025-02-15,Galicia,1462,25,No Renovable,116.48,18:00
+2025-02-16,Galicia,1190,14,No Renovable,118.43,20:00
+2025-02-17,Valencia,989,20,No Renovable,101.22,18:00
+2025-02-18,Castilla Y León,1086,14,No Renovable,109.05,20:30
+2025-02-19,Castilla Y León,1100,11,Mixta,91.17,21:30
+2025-02-20,Castilla Y León,1151,17,No Renovable,121.88,19:00
+2025-02-21,Madrid,1218,26,Mixta,109.01,22:00
+2025-02-22,Madrid,1138,20,Mixta,92.44,22:30
+2025-02-23,Castilla Y León,1410,20,Mixta,129.76,19:30
+2025-02-24,Galicia,1368,28,Mixta,95.48,19:30
+2025-02-25,Madrid,944,27,Mixta,108.75,18:30
+2025-02-26,Madrid,1130,27,No Renovable,118.22,21:00
+2025-02-27,Castilla Y León,1173,19,Renovable,127.19,19:30
+2025-02-28,Andalucía,1107,21,No Renovable,115.17,22:30
+2025-03-01,Madrid,1446,15,No Renovable,120.84,18:00
+2025-03-02,Andalucía,814,12,No Renovable,112.77,20:00
+2025-03-03,Valencia,979,16,No Renovable,97.47,20:30
+2025-03-04,Valencia,1002,21,No Renovable,118.21,18:30
+2025-03-05,Andalucía,1137,23,Mixta,117.42,20:30
+2025-03-06,Andalucía,1385,14,Mixta,109.91,21:30
+2025-03-07,Madrid,985,27,Mixta,91.59,22:00
+2025-03-08,Galicia,915,20,Renovable,104.77,21:00
+2025-03-09,Castilla Y León,1487,29,No Renovable,129.66,20:00
+2025-03-10,Galicia,810,28,Mixta,96.95,19:00
+2025-03-11,Cataluña,1143,29,Renovable,118.42,21:30
+2025-03-12,Galicia,1078,18,No Renovable,109.99,20:00
+2025-03-13,Cataluña,1384,22,Mixta,119.74,21:30
+2025-03-14,Castilla Y León,972,21,Renovable,123.48,18:00
+2025-03-15,Cataluña,1180,19,Renovable,115.81,19:00
+2025-03-16,Castilla Y León,1447,17,Mixta,128.09,21:00
+2025-03-17,Madrid,1122,19,Mixta,90.96,21:30
+2025-03-18,Madrid,898,20,Renovable,127.92,19:30
+2025-03-19,Cataluña,1255,22,Mixta,101.07,20:00
+2025-03-20,Andalucía,1078,22,No Renovable,127.23,20:30
+2025-03-21,Andalucía,1294,23,Renovable,123.52,21:30
+2025-03-22,Valencia,1375,21,Renovable,128.42,19:30
+2025-03-23,Galicia,927,21,No Renovable,114.35,18:30
+2025-03-24,Castilla Y León,1442,14,Renovable,117.67,19:00
+2025-03-25,Andalucía,1083,15,Renovable,120.79,20:30
+2025-03-26,Galicia,986,27,Mixta,128.4,22:30
+2025-03-27,Valencia,1246,24,No Renovable,105.97,18:00
+2025-03-28,Galicia,1244,30,No Renovable,126.13,19:30
+2025-03-29,Cataluña,892,26,Renovable,109.66,18:00
+2025-03-30,Cataluña,1411,12,Renovable,99.75,20:30
+2025-03-31,Valencia,867,24,No Renovable,119.31,21:00
+2025-04-01,Andalucía,1069,30,Mixta,90.26,19:30
+2025-04-02,Cataluña,832,25,Renovable,102.75,21:00
+2025-04-03,Cataluña,840,28,Renovable,129.18,19:00
+2025-04-04,Andalucía,912,10,Mixta,108.71,18:30
+2025-04-05,Madrid,1062,22,No Renovable,108.14,22:00
+2025-04-06,Cataluña,1317,11,Mixta,123.51,22:00
+2025-04-07,Madrid,1308,16,Mixta,92.18,20:00
+2025-04-08,Valencia,1192,19,Renovable,97.9,19:30
+2025-04-09,Galicia,1116,20,Renovable,115.93,22:00
+2025-04-10,Cataluña,1467,20,Mixta,105.14,22:30
+2025-01-01,Madrid,962,27,Renovable,119.12,20:00
+2025-01-02,Andalucía,1117,14,Renovable,107.26,22:30
+2025-01-03,Andalucía,1378,22,No Renovable,125.21,20:30
+2025-01-04,Madrid,1388,12,Mixta,101.12,20:00
+2025-01-05,Valencia,858,16,No Renovable,121.84,19:00
+2025-01-06,Galicia,1412,17,Renovable,125.02,19:00
+2025-01-07,Valencia,872,21,Renovable,111.3,18:00
+2025-01-08,Cataluña,1145,11,Renovable,96.72,21:00
+2025-01-09,Cataluña,980,13,Renovable,120.14,20:30
+2025-01-10,Cataluña,1330,20,Mixta,121.95,19:30
+2025-01-11,Galicia,1033,30,No Renovable,105.72,19:00
+2025-01-12,Madrid,1267,15,Mixta,115.44,19:30
+2025-01-13,Cataluña,1350,26,Renovable,96.68,19:00
+2025-01-14,Madrid,941,22,No Renovable,98.74,18:00
+2025-01-15,Cataluña,1185,12,Renovable,91.32,22:30
+2025-01-16,Cataluña,1170,16,No Renovable,123.61,18:00
+2025-01-17,Castilla Y León,1182,13,Mixta,91.57,18:00
+2025-01-18,Valencia,924,19,Renovable,103.15,21:00
+2025-01-19,Castilla Y León,1460,16,No Renovable,119.42,19:00
+2025-01-20,Madrid,933,26,Mixta,110.92,18:00
+2025-01-21,Valencia,1278,21,Mixta,109.95,18:00
+2025-01-22,Madrid,1201,12,Mixta,109.29,22:00
+2025-01-23,Galicia,1240,21,Mixta,123.94,18:00
+2025-01-24,Valencia,1369,25,Renovable,96.33,20:30
+2025-01-25,Valencia,923,14,Renovable,97.43,19:00
+2025-01-26,Castilla Y León,1135,11,Mixta,90.69,19:30
+2025-01-27,Andalucía,818,18,Mixta,108.75,21:30
+2025-01-28,Madrid,1262,14,No Renovable,105.27,18:00
+2025-01-29,Madrid,894,23,Mixta,121.94,21:30
+2025-01-30,Andalucía,1391,27,No Renovable,98.81,19:00
+2025-01-31,Valencia,1298,16,Renovable,103.44,20:30
+2025-02-01,Andalucía,1321,20,Renovable,116.62,19:30
+2025-02-02,Castilla Y León,893,21,No Renovable,91.22,18:30
+2025-02-03,Galicia,866,24,Renovable,100.27,19:30
+2025-02-04,Castilla Y León,824,16,No Renovable,120.01,22:30
+2025-02-05,Valencia,1333,17,Renovable,109.96,19:30
+2025-02-06,Castilla Y León,1196,19,Renovable,121.33,18:30
+2025-02-07,Andalucía,1376,13,Renovable,104.35,22:00
+2025-02-08,Cataluña,1114,11,No Renovable,106.32,20:30
+2025-02-09,Madrid,1444,17,Renovable,91.41,21:30
+2025-02-10,Castilla Y León,1190,13,Renovable,104.55,18:00
+2025-02-11,Madrid,1190,19,Mixta,93.81,22:00
+2025-02-12,Cataluña,1011,27,Renovable,96.82,18:30
+2025-02-13,Valencia,1392,16,Mixta,115.58,22:30
+2025-02-14,Castilla Y León,1185,11,No Renovable,126.82,18:00
+2025-02-15,Cataluña,882,22,No Renovable,127.54,21:30
+2025-02-16,Madrid,905,16,Renovable,114.67,22:30
+2025-02-17,Madrid,852,14,Renovable,105.24,19:00
+2025-02-18,Madrid,1088,26,Mixta,123.4,22:30
+2025-02-19,Galicia,1001,30,Mixta,112.96,18:00
+2025-02-20,Valencia,1444,11,Mixta,107.18,20:30
+2025-02-21,Cataluña,1228,27,Mixta,95.12,22:00
+2025-02-22,Andalucía,1331,16,Renovable,115.31,20:30
+2025-02-23,Andalucía,1456,30,Mixta,104.32,19:30
+2025-02-24,Andalucía,1388,10,Mixta,97.38,21:00
+2025-02-25,Castilla Y León,1323,26,Renovable,105.88,22:30
+2025-02-26,Valencia,1470,13,Renovable,102.17,18:00
+2025-02-27,Andalucía,968,11,Renovable,115.59,22:30
+2025-02-28,Madrid,1460,17,Mixta,110.87,21:30
+2025-03-01,Castilla Y León,1231,10,Mixta,94.02,19:30
+2025-03-02,Castilla Y León,968,24,Mixta,123.77,22:30
+2025-03-03,Galicia,1062,30,No Renovable,108.22,20:00
+2025-03-04,Andalucía,1472,19,Renovable,92.39,20:30
+2025-03-05,Valencia,1408,21,No Renovable,103.72,19:30
+2025-03-06,Castilla Y León,946,15,No Renovable,121.26,22:30
+2025-03-07,Castilla Y León,1122,13,Mixta,111.47,22:30
+2025-03-08,Madrid,965,13,Renovable,128.16,19:30
+2025-03-09,Valencia,1245,14,Mixta,118.27,22:30
+2025-03-10,Cataluña,1430,15,Mixta,101.47,19:30
+2025-03-11,Valencia,859,24,Renovable,108.67,21:00
+2025-03-12,Valencia,1114,22,Mixta,128.59,18:30
+2025-03-13,Madrid,970,22,Renovable,109.03,20:00
+2025-03-14,Madrid,1270,14,Renovable,106.54,20:00
+2025-03-15,Andalucía,1273,24,Mixta,125.11,18:00
+2025-03-16,Madrid,1385,11,No Renovable,107.14,18:00
+2025-03-17,Andalucía,1134,26,No Renovable,99.3,18:30
+2025-03-18,Castilla Y León,1280,15,Mixta,107.67,18:00
+2025-03-19,Madrid,1224,22,Renovable,99.93,22:00
+2025-03-20,Galicia,1043,26,Mixta,125.08,20:30
+2025-03-21,Cataluña,882,21,Mixta,123.09,19:30
+2025-03-22,Andalucía,1274,18,Renovable,112.97,20:00
+2025-03-23,Andalucía,1014,24,Mixta,105.57,18:30
+2025-03-24,Andalucía,1376,14,Mixta,103.73,22:00
+2025-03-25,Madrid,1322,30,Mixta,114.58,22:00
+2025-03-26,Galicia,1147,25,Mixta,115.08,18:00
+2025-03-27,Galicia,819,29,Mixta,110.48,21:00
+2025-03-28,Madrid,925,16,Mixta,114.06,19:30
+2025-03-29,Andalucía,1239,11,Mixta,103.45,18:00
+2025-03-30,Castilla Y León,1204,26,Renovable,126.85,21:00
+2025-03-31,Madrid,1340,18,Renovable,127.07,19:00
+2025-04-01,Valencia,1205,11,No Renovable,113.75,18:30
+2025-04-02,Cataluña,928,12,No Renovable,109.52,18:30
+2025-04-03,Castilla Y León,1419,28,No Renovable,93.91,22:00
+2025-04-04,Andalucía,973,11,Mixta,114.18,18:30
+2025-04-05,Madrid,1268,24,Mixta,129.73,19:00
+2025-04-06,Galicia,1058,18,Renovable,105.83,22:30
+2025-04-07,Galicia,960,14,Mixta,126.16,18:30
+2025-04-08,Madrid,992,20,Renovable,92.24,18:00
+2025-04-09,Madrid,1354,19,Renovable,128.45,22:30
+2025-04-10,Madrid,1213,24,Renovable,93.37,22:30
+2025-01-01,Madrid,1119,10,Mixta,128.02,18:00
+2025-01-02,Cataluña,1340,22,Renovable,121.95,19:00
+2025-01-03,Madrid,1065,14,No Renovable,96.91,21:00
+2025-01-04,Madrid,1405,23,Mixta,112.7,19:30
+2025-01-05,Andalucía,1293,17,Renovable,122.17,21:00
+2025-01-06,Valencia,1270,20,Renovable,106.56,22:00
+2025-01-07,Cataluña,1121,24,Mixta,110.68,19:00
+2025-01-08,Castilla Y León,843,27,Mixta,106.26,21:00
+2025-01-09,Galicia,1178,22,Mixta,117.46,18:00
+2025-01-10,Andalucía,1022,13,Mixta,110.75,19:30
+2025-01-11,Valencia,1088,12,Renovable,103.39,19:30
+2025-01-12,Galicia,1052,22,Mixta,123.1,22:00
+2025-01-13,Valencia,1006,28,Renovable,115.45,18:00
+2025-01-14,Andalucía,1162,24,Renovable,96.34,18:30
+2025-01-15,Valencia,1143,25,No Renovable,106.56,20:30
+2025-01-16,Castilla Y León,887,15,Mixta,114.51,22:30
+2025-01-17,Cataluña,1009,24,No Renovable,97.57,22:00
+2025-01-18,Castilla Y León,1133,10,Renovable,105.58,22:30
+2025-01-19,Castilla Y León,1347,11,Renovable,110.37,21:00
+2025-01-20,Galicia,909,23,No Renovable,122.5,22:30
+2025-01-21,Valencia,817,29,Renovable,95.93,21:30
+2025-01-22,Galicia,803,17,Renovable,93.72,18:30
+2025-01-23,Andalucía,1399,10,Mixta,97.98,22:00
+2025-01-24,Madrid,953,12,No Renovable,104.73,19:30
+2025-01-25,Castilla Y León,821,25,Mixta,90.04,21:30
+2025-01-26,Valencia,1183,24,Mixta,108.6,22:00
+2025-01-27,Valencia,1260,15,No Renovable,114.37,18:00
+2025-01-28,Cataluña,1173,27,No Renovable,118.26,19:30
+2025-01-29,Andalucía,1062,23,Mixta,93.98,18:30
+2025-01-30,Valencia,800,21,Renovable,102.53,21:30
+2025-01-31,Cataluña,1066,15,No Renovable,126.37,21:30
+2025-02-01,Madrid,1432,24,Renovable,114.82,22:30
+2025-02-02,Galicia,1333,29,Renovable,104.15,18:00
+2025-02-03,Madrid,1383,28,Renovable,110.4,22:30
+2025-02-04,Valencia,906,19,Mixta,108.29,22:00
+2025-02-05,Madrid,817,25,Mixta,125.51,20:00
+2025-02-06,Galicia,1390,11,Mixta,120.47,19:30
+2025-02-07,Castilla Y León,1390,29,No Renovable,105.97,19:30
+2025-02-08,Andalucía,847,26,Renovable,107.98,20:00
+2025-02-09,Castilla Y León,1202,25,Renovable,99.56,20:30
+2025-02-10,Andalucía,936,22,No Renovable,123.01,21:30
+2025-02-11,Valencia,1189,12,Mixta,119.97,18:00
+2025-02-12,Castilla Y León,825,12,Mixta,128.28,21:30
+2025-02-13,Castilla Y León,847,17,Mixta,127.62,22:30
+2025-02-14,Madrid,1380,23,No Renovable,121.65,19:00
+2025-02-15,Galicia,1262,13,Renovable,111.99,20:00
+2025-02-16,Galicia,1312,15,No Renovable,94.71,19:30
+2025-02-17,Andalucía,1065,19,Mixta,121.95,20:00
+2025-02-18,Castilla Y León,1414,27,No Renovable,90.46,18:30
+2025-02-19,Andalucía,1020,11,No Renovable,94.91,22:30
+2025-02-20,Andalucía,1380,25,Renovable,92.07,18:30
+2025-02-21,Cataluña,1245,24,Mixta,110.23,21:00
+2025-02-22,Andalucía,1316,11,Mixta,116.64,19:30
+2025-02-23,Galicia,1232,16,No Renovable,127.67,22:00
+2025-02-24,Galicia,997,19,Renovable,112.13,18:00
+2025-02-25,Madrid,1460,22,Renovable,100.19,21:00
+2025-02-26,Madrid,1257,12,Mixta,100.59,19:00
+2025-02-27,Galicia,1102,14,Renovable,107.97,20:30
+2025-02-28,Andalucía,1145,25,Renovable,108.53,19:30
+2025-03-01,Andalucía,866,15,Mixta,91.27,22:30
+2025-03-02,Andalucía,1460,11,No Renovable,128.66,18:00
+2025-03-03,Madrid,1040,30,Mixta,122.41,19:30
+2025-03-04,Andalucía,1211,29,Mixta,108.96,19:00
+2025-03-05,Madrid,934,17,Mixta,124.86,21:30
+2025-03-06,Galicia,908,14,Mixta,93.5,21:30
+2025-03-07,Valencia,1301,15,No Renovable,91.5,18:00
+2025-03-08,Andalucía,840,16,Renovable,120.96,20:30
+2025-03-09,Cataluña,843,29,Mixta,119.77,22:00
+2025-03-10,Cataluña,1280,22,Renovable,102.78,22:00
+2025-03-11,Castilla Y León,1063,23,Mixta,110.02,20:00
+2025-03-12,Cataluña,983,12,Mixta,101.93,19:30
+2025-03-13,Valencia,1467,22,Renovable,123.46,19:30
+2025-03-14,Cataluña,878,27,No Renovable,126.97,20:30
+2025-03-15,Andalucía,808,28,Renovable,93.74,19:00
+2025-03-16,Madrid,1316,30,Mixta,96.93,18:30
+2025-03-17,Valencia,1358,16,Renovable,105.94,20:00
+2025-03-18,Madrid,1377,27,No Renovable,103.65,22:30
+2025-03-19,Valencia,1095,15,Mixta,121.42,19:00
+2025-03-20,Castilla Y León,980,25,Mixta,113.17,20:00
+2025-03-21,Castilla Y León,1027,11,No Renovable,110.01,19:30
+2025-03-22,Valencia,1126,22,Renovable,120.63,22:00
+2025-03-23,Cataluña,803,16,Mixta,96.38,18:30
+2025-03-24,Madrid,1047,26,No Renovable,100.51,19:30
+2025-03-25,Madrid,904,16,Mixta,128.44,18:30
+2025-03-26,Cataluña,952,13,Mixta,116.79,19:30
+2025-03-27,Madrid,1207,26,No Renovable,97.28,20:00
+2025-03-28,Andalucía,973,17,Renovable,116.6,21:00
+2025-03-29,Valencia,1474,21,No Renovable,119.58,18:00
+2025-03-30,Madrid,1155,17,Renovable,113.9,22:30
+2025-03-31,Castilla Y León,983,11,Renovable,103.01,18:30
+2025-04-01,Cataluña,1016,11,Renovable,102.07,20:00
+2025-04-02,Valencia,803,16,Renovable,96.24,20:00
+2025-04-03,Galicia,868,25,Mixta,122.01,21:00
+2025-04-04,Andalucía,1013,30,Renovable,108.21,22:30
+2025-04-05,Cataluña,1106,11,No Renovable,91.26,19:30
+2025-04-06,Madrid,1210,12,Renovable,129.84,22:30
+2025-04-07,Valencia,1484,25,Renovable,93.55,22:00
+2025-04-08,Madrid,1319,25,Mixta,107.59,22:00
+2025-04-09,Andalucía,1096,12,Mixta,118.06,20:00
+2025-04-10,Madrid,1216,15,Renovable,95.86,22:00
