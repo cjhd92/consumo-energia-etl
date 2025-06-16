@@ -2,7 +2,7 @@
 
 Este proyecto implementa un pipeline completo de Extracción, Transformación y Carga (ETL) de datos sobre el consumo eléctrico, junto con un dashboard interactivo desarrollado en Streamlit que permite visualizar comparaciones entre regiones, fuentes energéticas y fechas.
 
-🗂️ Descripción general
+##🗂️ Descripción general
 
 Este proyecto incluye un archivo ejecutable run_project.bat que permite lanzar el sistema completo de forma automatizada en Windows. Simula la descarga de datos desde una API (usando un archivo remoto de GitHub como endpoint), limpia y transforma los datos, los carga en DuckDB, y lanza el panel de visualización en Streamlit.
 
